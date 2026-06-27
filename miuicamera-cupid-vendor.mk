@@ -3,7 +3,7 @@
 #
 
 PRODUCT_SOONG_NAMESPACES += \
-    vendor/xiaomi/miuicamera-marble
+    vendor/xiaomi/miuicamera-cupid
 
 PRODUCT_PACKAGES += \
     libcamera_algoup_jni.xiaomi \
